@@ -1,0 +1,2 @@
+Network id for 150.10.20.30 is 150.10.0.0 since it is a class b ip.
+Broadcast id for 150.10.20.30 is 150.10.255.255 since the subnet for class b ip is 255.255.0.0 . First octat 150(since subnet is 255), second octat is also same so 10, in second and third one, both has 0 so both octat will have 255.
