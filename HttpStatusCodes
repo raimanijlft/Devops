@@ -1,0 +1,10 @@
+401 : unauthorized
+400 : bad request
+403 : Forbidden
+404 : Not found
+409 : conflict
+500 : Internal server error
+501 : not implemented
+524 : timeout
+200 : ok success.
+201 Response status succcss and created.
